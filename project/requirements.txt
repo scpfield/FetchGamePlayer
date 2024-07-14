@@ -1,0 +1,5 @@
+argparse
+requests
+websocket-client
+psutil
+deprecated
